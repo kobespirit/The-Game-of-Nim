@@ -90,7 +90,7 @@ The features to be added are:
 
 • Write (read) the game statistics into (from) a file, i.e., one which is stored on the hard disk between executions of Nimsys
 
-• A new type of player - an AI (Artificial Intelligence) player, whose moves are automatically determined by the computer rather than a game user
+• A new type of player - an AI (Artificial Intelligence) player, whose moves are automatically determined by the computer rather than a game user
 
 • A victory guaranteed strategy for the AI player
 
